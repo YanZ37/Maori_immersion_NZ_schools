@@ -20,10 +20,9 @@ Data Processing & Analysis	Python (pandas, numpy, statsmodels, scikit-learn)
 Visualisation	Tableau Public, Seaborn, Matplotlib
 Statistical Techniques	Correlation, Linear Regression, Clustering (K-Means), Time Series Analysis
 Data Source	New Zealand Ministry of Education – School Rolls Data (2010–2024) 
-(Data Link:https://catalogue.data.govt.nz/dataset/school-rolls/resource/65c8f158-cea8-49d3-b46a-365d96b91995) 
+(Data Link: https://catalogue.data.govt.nz/dataset/school-rolls/resource/65c8f158-cea8-49d3-b46a-365d96b91995_
 
 📊 Key Findings
-
 Socio-economic status and ethnicity strongly influence Māori immersion participation.
 High-decile, European/Pākehā-dominant schools show low Māori immersion rates.
 Low-decile, Māori-majority schools demonstrate strong engagement in Level 1 (high-immersion) programmes.
