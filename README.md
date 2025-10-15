@@ -1,7 +1,7 @@
 🏫 Māori Language Immersion in New Zealand Schools
 
 ➡️ View Interactive Dashboard on Tableau Public:
-👉 🔗 Click Here to Open the Dashboard:https://public.tableau.com/app/profile/yan.zhang7344/viz/MaoriImmersioninNZSchools/1_2
+👉 🔗 Click Here to Open the Dashboard:(https://public.tableau.com/app/profile/yan7344/viz/MaoriImmersioninNZSchools/1_2)
 
 📘 Overview
 This project explores patterns, relationships, and trends in Māori language immersion education across New Zealand schools from 2010 to 2024. Using statistical and visual analyses, it examines how socio-economic status, ethnicity, and regional characteristics influence participation in Māori language immersion programmes.
